@@ -1,5 +1,5 @@
 # Data Pipeline Automation - Bank Transaction  
->> **Portfolio Project** : Developed an automated data pipeline project for bank transaction fraud detection using dummy transaction dataset
+> **Portfolio Project** : Developed an automated data pipeline project for bank transaction fraud detection using dummy transaction dataset
 
 ## 🔗 About Dataset
 
@@ -53,7 +53,7 @@ Orchestration is done using Airflow.
 4. **Orchestration:** Implemented workflow orchestration using to automate and schedule the ETL pipeline.
 
 
-## Conclusion
+## 📃 Conclusion
 
 Data Validation: Explored, cleaned and validated the dataset using Pandas and Great Expectations
 
